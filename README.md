@@ -45,6 +45,10 @@ This is the frontend repository of a full-stack blogging platform. It allows use
 
 ---
 
+## **Screen Recording **
+https://drive.google.com/file/d/1asgeF0w0zhU_c72QjSLI8byA_ZTWvi6U/view?usp=drive_link
+
+
 ## 📦 Installation & Run Instructions
 
 ```bash
@@ -58,5 +62,7 @@ npm install
 # Start development server
 npm start
 
-## **Screen Recording **
-https://drive.google.com/file/d/1asgeF0w0zhU_c72QjSLI8byA_ZTWvi6U/view?usp=drive_link
+
+
+
+
